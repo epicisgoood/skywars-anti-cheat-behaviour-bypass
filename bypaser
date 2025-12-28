@@ -1,2 +1,4 @@
 -- This script was generated using the MoonVeil Obfuscator v1.4.5 [https://moonveil.cc]
 local d_=(getfenv())local f_,i_,g=(string.char),(string.byte),(bit32 .bxor)local e_=function(a_,h)local b_=''for l_=264570/17638,(#a_-29942/29942)+(-16029+16044)do b_=b_..f_(g(i_(a_,(l_-(-9051+9066))+-3.9985605182134431e-05*-25009),i_(h,(l_-211290/14086)%#h+(8556-8555))))end return b_ end return(function(k,...)local function c(j)return k[j-244920224/22796]end d_[e_('\\\136\187\205\154D\149\179\199\142','0\231\218\169\233')](d_[e_('\225\167\235\163','\134\198')][e_('b8 Z\v\49^','*LT')](d_[e_('\225\167\235\163','\134\198')],c(-12399832/1202)))()end)({[-37695- -16635]=e_('t/\250\188\211\2\2\193\240\242\167\213h$\127\195}+\254\227\235Kd\221\179\246\153\235\"\48g\154','\28[\142\204\160\56-\238\128\147\212\161\rB\6\237')},...)
+
+print("quaz_idy can khs"
